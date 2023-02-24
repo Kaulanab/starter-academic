@@ -23,6 +23,7 @@ image:
   preview_only: false
   alt_text: 
 ---
+![screen reader text](header01_azure.png "caption")
 **Introduction**
 
 
