@@ -14,8 +14,8 @@ profile: true  # Show author profile?
 commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 # header:
-# image: ""
-# caption: "Image credit: [**Pexels.com**](https://www.pexels.com/photo/close-up-photo-of-cookies-3095041/)"
+# image: "cloud1029922.jpg"
+# caption: "Image credit: [**Pixabay.com**](https://pixabay.com/photos/sky-clouds-airspace-cumulus-3294543/)"
 image:
   placement: 1
   caption: ""
