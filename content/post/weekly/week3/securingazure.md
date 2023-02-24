@@ -1,5 +1,5 @@
 ---
-title: Securing your Azure Cloud; A Comprehensive Guide to Using Advanced Security Tools 
+title: Maximizing Azure Security with Azure Sentinel, Defender for Cloud, Azure Monitor, and Azure Advisor 
 summary:
 date: Feb 24, 2023
 author: admin
