@@ -39,9 +39,7 @@ With Azure Sentinel, you can automate security tasks, such as incident response 
 
 Defender for Cloud
 Azure Defender for Cloud is a cloud-native security tool that provides advanced threat protection for your Azure resources. The tool uses machine learning and AI to monitor your environment, providing real-time security alerts and recommendations for remediation.
-
-                                    {{< figure src="defenderforcloud.png" >}}
-
+                              
 Defender for Cloud provides a unified view of your environment, including virtual machines, containers, and serverless functions. The tool helps detect vulnerabilities and misconfigurations, and it can help you identify suspicious activities in your Azure resources.
 
 With Defender for Cloud, you can protect your cloud environment against a wide range of threats, including malware, ransomware, and data exfiltration. The tool also integrates with Azure Security Center, enabling you to manage and monitor your security posture from a single dashboard.
