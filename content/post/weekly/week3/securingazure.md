@@ -1,5 +1,5 @@
 ---
-title: Securing your Azure Cloud: A Comprehensive Guide to Using Advanced Security Tools
+title: Securing your Azure Cloud: A Comprehensive Guide to Using Advanced Security Tools 
 summary:
 date: Feb 24, 2023
 author: admin
