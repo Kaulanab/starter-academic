@@ -1,5 +1,5 @@
 ---
-title: Maximizing Azure Security with Azure Sentinel, Defender for Cloud, Azure Monitor, and Azure Advisor 
+title: Maximizing Azure Security with Azure Sentinel, Defender for Cloud, Azure Monitor, and Azure Advisor. 
 summary:
 date: Feb 24, 2023
 author: admin
