@@ -23,7 +23,7 @@ image:
   preview_only: false
   alt_text: 
 ---
-![screen reader text](/media/header01_azure.png)
+![Image Credit: **pixabay.com**](/media/header01_azure.png)
 **Introduction**
 
 
