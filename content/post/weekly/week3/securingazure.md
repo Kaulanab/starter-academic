@@ -15,7 +15,7 @@ commentable: true  # Allow visitors to comment? Supported by the Page, Post, and
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 header:
 image: "header01_azure.png"
-caption: "Image credit: [**Pixabay.com**](https://pixabay.com/photos/sky-clouds-airspace-cumulus-3294543/)"
+caption: "Image credit: [**Pixabay.com**](header01_azure.png)"
 image:
   placement: 1
   caption: ""
@@ -23,7 +23,7 @@ image:
   preview_only: false
   alt_text: 
 ---
-![screen reader text](header01_azure.png "caption")
+![screen reader text](header01_azure.png)
 **Introduction**
 
 
