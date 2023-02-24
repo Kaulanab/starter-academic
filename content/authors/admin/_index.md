@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Gillam
+title: Daniel Ola-Olorun
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Infosec and Privacy Enthusiast
+role: Cloud DevOps Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Information Security, Privacy Law and Offensive Cyberwarfare.
+bio: My research interests include Cloud, Cybersecurity and Privacy Law.
 
 interests:
-- Information Technology Law
+- Automation
 - Penetration Testing
 - Cinematography
 
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, My name is Daniel Gillam. I am an Information Security Enthusiast currently living in Nigeria. I love to explore the intersection of technology, privacy, cyberwarfare and the society.
+Hi, My name is Daniel Ola-Olorun. I am a Cloud DevOps Engineer currently living in Nigeria. I love to explore the intersection of technology, privacy, automation and the society.
 
 Occasionally, I write on how the evolution of technology affects our daily lives. When I'm not reading about the latest cyberattack or writing an article, I spend most of my time editing vidoes, learning how to code or reading a good book. I also enjoy solving machines on hackthebox.eu and tryhackme.com. 
