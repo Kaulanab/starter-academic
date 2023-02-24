@@ -32,12 +32,16 @@ In today's fast-paced digital world, security has become a major concern for bus
 Azure Sentinel
 Azure Sentinel is a cloud-native security information and event management (SIEM) tool that uses machine learning and AI to analyze data across your enterprise, including your cloud and on-premises environments. The tool helps you identify and respond to threats quickly and efficiently.
 
+![](/media/header01_azure.png)
+
 To use Azure Sentinel, you must first connect your data sources, such as Azure services, third-party services, or custom data sources, to the tool. Once your data sources are connected, Azure Sentinel will collect data and analyze it using machine learning algorithms. The tool uses advanced analytics to identify suspicious activities, such as malware infections, data exfiltration, and other security threats.
 
 With Azure Sentinel, you can automate security tasks, such as incident response and threat hunting, and create custom dashboards to monitor your security posture.
 
 Defender for Cloud
 Azure Defender for Cloud is a cloud-native security tool that provides advanced threat protection for your Azure resources. The tool uses machine learning and AI to monitor your environment, providing real-time security alerts and recommendations for remediation.
+
+![](/media/defenderforcloud.png)
 
 Defender for Cloud provides a unified view of your environment, including virtual machines, containers, and serverless functions. The tool helps detect vulnerabilities and misconfigurations, and it can help you identify suspicious activities in your Azure resources.
 
