@@ -23,7 +23,7 @@ image:
   preview_only: false
   alt_text: 
 ---
- **Introduction**
+**Introduction**
 
 
 In today's fast-paced digital world, security has become a major concern for businesses that are moving to the cloud. Microsoft Azure provides a range of advanced security tools that can be used to secure your cloud environment. In this blog post, we will explore how you can use Azure Sentinel, Defender for Cloud, Azure Monitor, and Azure Advisor to enhance the security of your Azure cloud.
