@@ -72,7 +72,7 @@ user_groups:
 
 Hi, My name is Daniel Ola-Olorun and I am a Cloud DevOps Engineer currently living and working remotely from Lagos, Nigeria.
 
-I have always been fascinated by technology and its ability to solve complex problems. This passion led me to pursue a career in Cloud and Cyber Security. 
+I have always been fascinated by technology and its ability to solve complex problems. This passion led me to pursue a career in Cloud and Security. 
 
 As a Cloud DevOps Engineer, my work involves designing, implementing, and maintaining cloud infrastructure to support software applications. I am particularly interested in the automation aspect of DevOps, as I believe that it can help teams to work more efficiently and effectively. I have experience working with AWS and Azure and I am always eager to learn new cloud technologies.
 
