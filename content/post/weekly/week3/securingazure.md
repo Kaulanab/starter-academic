@@ -13,9 +13,9 @@ share: true  # Show social sharing links?
 profile: true  # Show author profile?
 commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
-# header:
-# image: "header01_azure.png"
-# caption: "Image credit: [**Pixabay.com**](https://pixabay.com/photos/sky-clouds-airspace-cumulus-3294543/)"
+header:
+image: "header01_azure.png"
+caption: "Image credit: [**Pixabay.com**](https://pixabay.com/photos/sky-clouds-airspace-cumulus-3294543/)"
 image:
   placement: 1
   caption: ""
